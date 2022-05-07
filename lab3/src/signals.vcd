@@ -1,0 +1,156 @@
+$date
+     May 06, 2022       16:21:57
+$end
+
+$version
+ SystemC 2.3.4_pub_rev_20190614-Accellera --- Sep 21 2021 12:53:33
+$end
+
+$timescale
+     1 ns
+$end
+
+$scope module SystemC $end
+$var wire    1  aaaaa  clk       $end
+$var real    1  aaaab  in1       $end
+$var real    1  aaaac  in2       $end
+$var real    1  aaaad  sum       $end
+$var real    1  aaaae  diff       $end
+$var real    1  aaaaf  prod       $end
+$var real    1  aaaag  quot       $end
+$var real    1  aaaah  powr       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+1aaaaa
+r133.06 aaaab
+r95.44 aaaac
+r0 aaaad
+r0 aaaae
+r0 aaaaf
+r0 aaaag
+r1 aaaah
+$end
+
+#25
+0aaaaa
+
+#50
+1aaaaa
+r131.56 aaaab
+r92.64 aaaac
+r228.5 aaaad
+r37.62 aaaae
+
+#75
+0aaaaa
+
+#100
+1aaaaa
+r130.06 aaaab
+r89.84 aaaac
+r224.2 aaaad
+r38.92 aaaae
+r8596.170000000002 aaaaf
+r6.073896863370547 aaaag
+
+#125
+0aaaaa
+
+#150
+1aaaaa
+r128.56 aaaab
+r87.04000000000001 aaaac
+r219.9 aaaad
+r40.22 aaaae
+r8725.864 aaaaf
+r5.760534429599177 aaaag
+r7.880663294494549e+23 aaaah
+
+#175
+0aaaaa
+
+#200
+1aaaaa
+r127.06 aaaab
+r84.24000000000001 aaaac
+r215.6 aaaad
+r41.52 aaaae
+r8844.378000000001 aaaaf
+r5.467429139731477 aaaag
+r5.025308156461862e+22 aaaah
+
+#225
+0aaaaa
+
+#250
+1aaaaa
+r125.56 aaaab
+r81.44000000000001 aaaac
+r211.3 aaaad
+r42.81999999999999 aaaae
+r8951.712 aaaaf
+r5.192678227360309 aaaag
+r3.785504588212786e+21 aaaah
+
+#275
+0aaaaa
+
+#300
+1aaaaa
+r124.06 aaaab
+r78.64000000000001 aaaac
+r207 aaaad
+r44.11999999999999 aaaae
+r9047.865999999998 aaaaf
+r4.934609995329287 aaaag
+r3.318767046037861e+20 aaaah
+
+#325
+0aaaaa
+
+#350
+1aaaaa
+r122.56 aaaab
+r75.84000000000002 aaaac
+r202.7 aaaad
+r45.41999999999999 aaaae
+r9132.839999999998 aaaaf
+r4.691749773345423 aaaag
+r3.342044498889812e+19 aaaah
+
+#375
+0aaaaa
+
+#400
+1aaaaa
+r121.06 aaaab
+r73.04000000000002 aaaac
+r198.4 aaaad
+r46.71999999999998 aaaae
+r9206.633999999998 aaaaf
+r4.4627917217085 aaaag
+r3.820952118187878e+18 aaaah
+
+#425
+0aaaaa
+
+#450
+1aaaaa
+r119.56 aaaab
+r70.24000000000002 aaaac
+r194.1 aaaad
+r48.01999999999998 aaaae
+r9269.247999999998 aaaaf
+r4.246575342465755 aaaag
+r4.9085880406986e+17 aaaah
+
+#475
+0aaaaa
+
+#500

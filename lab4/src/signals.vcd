@@ -1,0 +1,192 @@
+$date
+     May 06, 2022       16:58:57
+$end
+
+$version
+ SystemC 2.3.4_pub_rev_20190614-Accellera --- Sep 21 2021 12:53:33
+$end
+
+$timescale
+     1 ns
+$end
+
+$scope module SystemC $end
+$var wire    1  aaaaa  clk       $end
+$var real    1  aaaab  in1       $end
+$var real    1  aaaac  in2       $end
+$var real    1  aaaad  sum       $end
+$var real    1  aaaae  diff       $end
+$var real    1  aaaaf  prod       $end
+$var real    1  aaaag  quot       $end
+$var real    1  aaaah  powr       $end
+$var real    1  aaaai  power       $end
+$var real    1  aaaaj  f1       $end
+$var real    1  aaaak  r1       $end
+$var real    1  aaaal  r2       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+1aaaaa
+r133.06 aaaab
+r95.44 aaaac
+r0 aaaad
+r0 aaaae
+r0 aaaaf
+r0 aaaag
+r1 aaaah
+r1 aaaai
+r0 aaaaj
+r0 aaaak
+r0 aaaal
+$end
+
+#25
+0aaaaa
+
+#50
+1aaaaa
+r131.56 aaaab
+r92.64 aaaac
+r228.5 aaaad
+r37.62 aaaae
+r5.237152543509393e+202 aaaai
+r619527.36 aaaaj
+r1 aaaak
+
+#75
+0aaaaa
+
+#100
+1aaaaa
+r130.06 aaaab
+r89.84 aaaac
+r224.2 aaaad
+r38.92 aaaae
+r8596.170000000002 aaaaf
+r6.073896863370547 aaaag
+r2.06840146192752e+196 aaaai
+r575048.76 aaaaj
+rinf aaaak
+r383814149788.5696 aaaal
+
+#125
+0aaaaa
+
+#150
+1aaaaa
+r128.56 aaaab
+r87.04000000000001 aaaac
+r219.9 aaaad
+r40.22 aaaae
+r8725.864 aaaaf
+r5.760534429599177 aaaag
+r7.880663294494549e+23 aaaah
+r8.603486280992579e+189 aaaai
+r532595.7000000001 aaaaj
+r330681076377.5376 aaaal
+
+#175
+0aaaaa
+
+#200
+1aaaaa
+r127.06 aaaab
+r84.24000000000001 aaaac
+r215.6 aaaad
+r41.52 aaaae
+r8844.378000000001 aaaaf
+r5.467429139731477 aaaag
+r5.025308156461862e+22 aaaah
+r3.772023426157966e+183 aaaai
+r503440.96 aaaaj
+r283658179658.4901 aaaal
+
+#225
+0aaaaa
+
+#250
+1aaaaa
+r125.56 aaaab
+r81.44000000000001 aaaac
+r211.3 aaaad
+r42.81999999999999 aaaae
+r8951.712 aaaaf
+r5.192678227360309 aaaag
+r3.785504588212786e+21 aaaah
+r1.744639127041288e+177 aaaai
+r464404.3 aaaaj
+r253452800205.7216 aaaal
+
+#275
+0aaaaa
+
+#300
+1aaaaa
+r124.06 aaaab
+r78.64000000000001 aaaac
+r207 aaaad
+r44.11999999999999 aaaae
+r9047.865999999998 aaaaf
+r4.934609995329287 aaaag
+r3.318767046037861e+20 aaaah
+r8.520212850265707e+170 aaaai
+r427280.6800000001 aaaaj
+r215671353858.4901 aaaal
+
+#325
+0aaaaa
+
+#350
+1aaaaa
+r122.56 aaaab
+r75.84000000000002 aaaac
+r202.7 aaaad
+r45.41999999999999 aaaae
+r9132.839999999998 aaaaf
+r4.691749773345423 aaaag
+r3.342044498889812e+19 aaaah
+r4.39747045049804e+164 aaaai
+r392029.6000000002 aaaaj
+r182568779501.2625 aaaal
+
+#375
+0aaaaa
+
+#400
+1aaaaa
+r121.06 aaaab
+r73.04000000000002 aaaac
+r198.4 aaaad
+r46.71999999999998 aaaae
+r9206.633999999998 aaaaf
+r4.4627917217085 aaaag
+r3.820952118187878e+18 aaaah
+r2.400874028012178e+158 aaaai
+r358610.5600000002 aaaaj
+r153687207276.1601 aaaal
+
+#425
+0aaaaa
+
+#450
+1aaaaa
+r119.56 aaaab
+r70.24000000000002 aaaac
+r194.1 aaaad
+r48.01999999999998 aaaae
+r9269.247999999998 aaaaf
+r4.246575342465755 aaaag
+r4.9085880406986e+17 aaaah
+r1.387934291244691e+152 aaaai
+r335941.5000000001 aaaaj
+r128601533743.5137 aaaal
+
+#475
+0aaaaa
+
+#500
